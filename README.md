@@ -24,7 +24,12 @@ Thanks to MOVAN python tutorial's video support!
 [test9-MNISTCnn.py]:
   It is a basic convolutional neural network to learn the MNIST handwritten numeral dataset.
   
+[test10-SavePara.py]:
+  It is a demo of saving parameter of network.
   
+[test10.1-RestorePara.py]:
+  It is a demo of restoring parameter of network.(we can only save the parameters but cannot save save the construction)
+
 PS: Some annotations are in Chinese.
 
   
