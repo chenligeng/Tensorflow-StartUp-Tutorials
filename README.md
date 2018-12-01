@@ -9,7 +9,7 @@ Environment required:
   pycharm (convenient for student to activate)
   library function -> tensorflow, numpy
  
-Thanks to MOVAN python tutorial's video support!
+Thanks to MOVAN python tutorial's video's support!
 
 
 [test5-BasicNN.py]:
