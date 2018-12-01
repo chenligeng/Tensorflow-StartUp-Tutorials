@@ -30,6 +30,9 @@ Thanks to MOVAN python tutorial's video support!
 [test10.1-RestorePara.py]:
   It is a demo of restoring parameter of network.(we can only save the parameters but cannot save save the construction)
 
+[test11-RNN.py]:
+  It is a demo of MNIST recognization by LSTM model.
+
 PS: Some annotations are in Chinese.
 
   
