@@ -31,8 +31,10 @@ Thanks to MOVAN python tutorial's video's support!
   It is a demo of restoring parameter of network.(we can only save the parameters but cannot save save the construction)
 
 [test11-RNN.py]:
-  It is a demo of MNIST recognization by LSTM model.
-
+  It is a demo of MNIST recognition by LSTM model.
+  
+[test14-CLSTM.py]:
+  It is a demo of MNIST recognition by CLSTM(CNN+LSTM) model.
 PS: Some annotations are in Chinese.
 
   
